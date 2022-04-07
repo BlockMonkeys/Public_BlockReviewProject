@@ -1,5 +1,8 @@
 # Public_BlockReviewProject
 
+## Dapp Link
+https://blockreview.monstercoders.io
+
 ## Summary
 * 현대시대의 요구에 맞추어 익명성을 버리고, 회원제로 유지시키면서 개인키는 개인에게 소유권을 줌으로써 탈중앙화를 유지시킨 블록체인 리뷰 Dapp이다. 블록체인을 통한 리뷰는 NFT가 되고, 리뷰 NFT를 거래할 수 있다. 또한 적절한 토큰이코노미를 적용하여 악성리뷰와 허위리뷰를 최소화 시킬 수 있고, 게임이론에 입각한 선순환적 유도의 클린리뷰를 남길 수 있는 Dapp이다.
 
