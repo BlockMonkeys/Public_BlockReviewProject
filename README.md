@@ -10,6 +10,7 @@ https://blockreview.monstercoders.io
 * Ethereum Testnet(Rinkeby) 
 * IPFS 
 * Solidity(Smart Contract)
+* Remix
 * OpenZeppelin
 * Web3
 * Gas Station Network
