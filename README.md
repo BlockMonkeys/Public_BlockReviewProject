@@ -1,7 +1,9 @@
 # Public_BlockReviewProject
 
 ## Dapp Link
+
 VIDEO : https://youtu.be/NAnYJQbCfes
+
 OPENSEA NFT(TESTNET) : https://testnets.opensea.io/assets/rinkeby/0x6665934c0bc7d0aefe6a7b6c7620b1d9fbc69c10/50
 
 ## Summary
