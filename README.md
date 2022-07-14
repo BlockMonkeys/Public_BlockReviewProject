@@ -2,8 +2,6 @@
 
 ## Dapp Link
 
-VIDEO : https://youtu.be/NAnYJQbCfes
-
 OPENSEA NFT(TESTNET) : https://testnets.opensea.io/collection/blockreviewnft
 
 ## Summary
