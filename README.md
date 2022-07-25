@@ -2,10 +2,6 @@
 
 ## Dapp Link
 
-URL : https://blockreview.monstercoders.io/
-
-OPENSEA NFT(TESTNET) : https://testnets.opensea.io/collection/blockreviewnft
-
 Notion : https://bevel-adjustment-e90.notion.site/BlockReview-Dapp-56571102091d49d69e37f3ef5b478a1f
 
 ## Summary
